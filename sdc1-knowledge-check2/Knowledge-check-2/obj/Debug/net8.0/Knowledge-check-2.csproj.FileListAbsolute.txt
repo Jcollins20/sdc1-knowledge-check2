@@ -1,0 +1,15 @@
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\bin\Debug\net8.0\Knowledge-check-2.exe
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\bin\Debug\net8.0\Knowledge-check-2.deps.json
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\bin\Debug\net8.0\Knowledge-check-2.runtimeconfig.json
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\bin\Debug\net8.0\Knowledge-check-2.dll
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\bin\Debug\net8.0\Knowledge-check-2.pdb
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\obj\Debug\net8.0\Knowledge-check-2.GeneratedMSBuildEditorConfig.editorconfig
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\obj\Debug\net8.0\Knowledge-check-2.AssemblyInfoInputs.cache
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\obj\Debug\net8.0\Knowledge-check-2.AssemblyInfo.cs
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\obj\Debug\net8.0\Knowledge-check-2.csproj.CoreCompileInputs.cache
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\obj\Debug\net8.0\Knowledge-check-2.sourcelink.json
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\obj\Debug\net8.0\Knowledge-check-2.dll
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\obj\Debug\net8.0\refint\Knowledge-check-2.dll
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\obj\Debug\net8.0\Knowledge-check-2.pdb
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\obj\Debug\net8.0\Knowledge-check-2.genruntimeconfig.cache
+P:\CodeKentucky\repos\Software1-Knowledge-Check-2\sdc1-knowledge-check2\sdc1-knowledge-check2\Knowledge-check-2\obj\Debug\net8.0\ref\Knowledge-check-2.dll
